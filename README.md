@@ -14,8 +14,8 @@ I integrate modern automation tools, AI assistants, and agent-based solutions to
 - AI tools integration in communication workflows
 
 ### 🌐 Let's Connect
-- 🌍 Website: [https://prbrand.xyz](https://prbrand.xyz)   
+- 🌍 Website: [prbrand.xyz](https://prbrand.xyz)   
 - 🧠 GitHub: [@wwwinvest](https://github.com/wwwinvest)  
-- ✈️ Telegram: [https://t.me/prbrand_xyz](https://t.me/prbrand_xyz)
+- ✈️ Telegram: [@prbrand_xyz](https://t.me/prbrand_xyz)
 
 
